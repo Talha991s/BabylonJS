@@ -1,2 +1,2 @@
-# BabylonJS
+# Yeti BabylonJS
 Learning BabylonJS
